@@ -1,0 +1,2 @@
+<!--Hello! my name is wennik, i am learning about html and this is my first initial project in HTML in GitHub-->
+<!--Looking forward to see great results in this project, also i love coding, cannot wait to learn more and expande my skills in this universe>
